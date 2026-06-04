@@ -2,6 +2,7 @@
 
 An interactive HR analytics dashboard built with **Microsoft Excel** to analyze employee performance across departments, countries, and experience levels.
 
+![Dashboard](30.04.2026_22.53.12_REC.png)
 ---
 
 ##  Dataset Overview
